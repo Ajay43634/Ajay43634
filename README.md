@@ -26,6 +26,7 @@
 - 📊 **Yelp Sentiment Classifier** — BoW / TF-IDF / Logistic Regression
 - 🔁 **Language Models from Scratch** — RNN, LSTM, GRU on OpenWebText
 - 🔌 **MCP Server App** — Built with Anthropic SDK + Model Context Protocol
+- 🏏 **Cricket RAG Chatbot — Semantic search over Wikipedia cricket docs using ChromaDB + sentence-transformers, with real-time web search and Claude API for answer generation. Built with Gradio UI.
 
 ---
 
