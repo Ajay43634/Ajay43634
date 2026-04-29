@@ -2,6 +2,13 @@
 🎓 **CS Student at SDSU** — focused on AI & Machine Learning  
 📍 San Diego, CA  
 
+
+![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ajay43634&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay43634&layout=compact&theme=dark&hide_border=true)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ajay43634&theme=darkhub&no-frame=true&row=1)
+
 ---
 
 ### 🏅 Certifications & Courses
@@ -44,6 +51,8 @@
 - 🔍 Retrieval-Augmented Generation (RAG) pipelines
 - ⚙️ Agentic AI systems with MCP
 - 💼 Exploring internships in AI Engineering & ML
+
+  
 
 ---
 
