@@ -7,6 +7,8 @@
 ### 🏅 Certifications & Courses
 - 🟠 **Anthropic Academy** — RAG (Retrieval-Augmented Generation)
 - 🟠 **Anthropic Academy** — MCP (Model Context Protocol)
+- 🟠 **Anthropic Academy** — Introduction to Agentic AI
+- 🟠 **Anthropic Academy** — Agentic AI Skills
 
 ---
 
@@ -34,7 +36,7 @@
 | CS 561 — Natural Language Processing | Classical ML, Deep Learning, Fine-tuning, Transformers |
 | CS 420 — Data Structures & Algorithms | DP, Sorting, Trees, Graph Algorithms |
 | CS 460 — Algorithms | Data Structures, Algorithm Design & Analysis |
-| Anthropic Academy | RAG, MCP, LLM APIs, Tool Use |
+| Anthropic Academy | RAG, MCP, LLM APIs, Tool Use, Agentic AI |
 
 ---
 
