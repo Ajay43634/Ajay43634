@@ -22,11 +22,11 @@
 ---
 
 ### 🚀 What I've Built
+* 🔧 GitHub Automation MCP Server — Python MCP server that connects Claude Desktop to GitHub. Tools include creating repos, pushing files, creating issues, listing repos, and AI-powered README generation and repo summarization using Claude subagents. Built with FastMCP + PyGithub + Anthropic API.
+* 💼 LinkedIn Job Assistant MCP Server — Python MCP server for AI-powered job hunting. Scrapes LinkedIn job postings, tailors resumes to match job descriptions using Claude subagents, drafts personalized cover letters, and tracks applications locally. Built with FastMCP + BeautifulSoup + Anthropic API.
 - 🏏 **Cricket RAG Chatbot** — Semantic search over Wikipedia cricket docs using ChromaDB + sentence-transformers, with real-time web search and Claude API for answer generation. Built with Gradio UI
 - 🧠 **AI vs Human Text Classifier** — BERT + TF-IDF on Kaggle dataset (group project)
 - 📊 **Yelp Sentiment Classifier** — BoW / TF-IDF / Logistic Regression
-- 🔁 **Language Models from Scratch** — RNN, LSTM, GRU on OpenWebText
-- 🔌 **MCP Server App** — Built with Anthropic SDK + Model Context Protocol
 
 
 ---
